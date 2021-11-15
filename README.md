@@ -1,4 +1,6 @@
-<H1> # PyHub </H1>
-An amazing simple Python IDE for developers! </FONT>
+## PyHub
+An amazing simple Python IDE for developers! 
+
+## Example Usage
 
 <img src = "./assests/pyhub.PNG">
