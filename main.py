@@ -3,7 +3,7 @@ from tkinter.filedialog import asksaveasfilename, askopenfilename
 import subprocess
 
 compiler = Tk()
-compiler.title('My Fantastic IDE')
+compiler.title('PyHub IDE')
 file_path = ''
 
 
