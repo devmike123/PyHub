@@ -1,1 +1,0 @@
-Assests for the IDE!
