@@ -1,7 +1,7 @@
 ## PyHub
 An amazing simple Python IDE for developers! Get ready to compile and run your code in the most simplest and easiest IDE of the ancient world! This IDE is open source and can be used by any one with ease!
 
-<img src = "./assests/123.png">
+<img src = "./assests/45.png">
 
 ## Features of PyHub
 - You can save .py files!
