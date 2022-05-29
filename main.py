@@ -1,3 +1,6 @@
+# :copyright: (c) 2021-present Aniket Bhattacharjee 
+# :license: MIT, see LICENSE for more details.
+
 from tkinter import *
 from tkinter.filedialog import asksaveasfilename, askopenfilename
 import subprocess
